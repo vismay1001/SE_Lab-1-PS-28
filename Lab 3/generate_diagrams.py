@@ -336,7 +336,7 @@ def create_component_diagram_coffee_kiosk(output_png, output_pdf):
     print(f"Generated {output_png} and {output_pdf}")
 
 if __name__ == '__main__':
-    base_dir = r"c:\PESU Items\Sem 5\SE\LABS\Lab 3"
+    base_dir = os.path.dirname(os.path.abspath(__file__))
     create_component_diagram_ps28(os.path.join(base_dir, "Deliverable_1_Component_Diagram.png"),
                                  os.path.join(base_dir, "Deliverable_1_Component_Diagram.pdf"))
     create_component_diagram_coffee_kiosk(os.path.join(base_dir, "Coffee_Kiosk_Component_Diagram.png"),

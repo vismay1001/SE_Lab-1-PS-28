@@ -518,7 +518,7 @@ def create_pdf_coffee_kiosk(filename):
     print(f"Saved {filename}")
 
 if __name__ == '__main__':
-    base_dir = r"c:\PESU Items\Sem 5\SE\LABS\Lab 3"
+    base_dir = os.path.dirname(os.path.abspath(__file__))
     create_docx_ps28(os.path.join(base_dir, "Deliverable_2_Architectural_Justification.docx"))
     create_pdf_ps28(os.path.join(base_dir, "Deliverable_2_Architectural_Justification.pdf"))
     create_docx_coffee_kiosk(os.path.join(base_dir, "Coffee_Kiosk_Architectural_Justification.docx"))

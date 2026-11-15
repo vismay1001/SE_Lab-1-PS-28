@@ -20,10 +20,16 @@ To ensure comprehensive compliance with both the **Assigned Scenario** (Problem 
 
 ---
 
+## 🔗 Parent Dependency
+> **Upstream Dependency:** This lab directly derives from and realizes the system requirements established in **[Lab 1: Requirements Engineering & Use Case Modeling](../README.md)** (Problem Statement #28: *Inter-City Freight Load Matching Marketplace*).
+
+---
+
 ## 📂 Repository Deliverables
 
 | Deliverable | Description | File Format(s) |
 | :--- | :--- | :--- |
+| **Lab 3 Student Handout** | Official Faculty Problem Statement & Instructions | [PDF](Lab_3_Architecture_Student_handout.pdf) |
 | **Deliverable 1 (PS #28)** | UML 2.5 Component Diagram for Inter-City Freight Marketplace | [PNG](Deliverable_1_Component_Diagram.png) \| [PDF](Deliverable_1_Component_Diagram.pdf) |
 | **Deliverable 2 (PS #28)** | Architectural Selection Justification Document (Max 1 Page) | [DOCX](Deliverable_2_Architectural_Justification.docx) \| [PDF](Deliverable_2_Architectural_Justification.pdf) |
 | **Deliverable 1 (Coffee Kiosk)** | UML 2.5 Component Diagram for Self-Service Coffee Kiosk | [PNG](Coffee_Kiosk_Component_Diagram.png) \| [PDF](Coffee_Kiosk_Component_Diagram.pdf) |

@@ -3,7 +3,7 @@
 
 **Student Name:** Vismay Shyam Vasishta  
 **SRN:** PES2UG24AM184  
-**Team:** 28 (CODEVERSE)  
+**PS:** 28   
 **Department:** Computer Science and Engineering / AIML (5th Semester)  
 **Institution:** PES University  
 
